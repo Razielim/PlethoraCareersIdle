@@ -1,0 +1,23 @@
+Education:
+
+- 
+
+
+
+
+
+
+Adventuring:
+
+- 
+
+- "Dungeons" gamemode: Run dungeons that increase in difficulty and give tons of cool stuff
+	-> Have cooldowns?
+	-> Instead of resetting, this is the source of the repeating/incremental gameplay
+	-> Dungeons could have specific effects (buff/debuff modifiers)
+	-> grant talent points
+
+- "Talents"
+	-> Talent Tree with important upgrades
+	-> Four trees: Phys DPS, Mag DPS, Defense, Utility
+	-> also includes a handful of infinite upgrades as dumps

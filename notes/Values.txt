@@ -1,0 +1,103 @@
+MainValues:
+	- Education
+		- Brainpoints (BP)
+		- HomeworkLeft (HW)
+		- ProgressPoints (PP)
+		- SparkPoints (SP)
+		- Stress (St)
+	- Adventuring
+	- Mining
+	- Business
+	- Leading
+
+UpgradeCosts:
+	- Education
+		- BrainUpgrades
+			- AutoHomework
+			- BetterStressTeddy
+		- SparkUpgrades
+	- Adventuring
+		- SkillUpgrades
+		- TalentUpgrades
+	- Mining
+	- Business
+	- Leading
+
+UnlockedStatus(Bools):
+	- Education
+		- Actions
+			- HomeworkUnlocked
+			- SchoolUnlocked
+		- Upgrades
+			- BrainUpgrades
+				- Auto_Homework
+				- Auto_School
+				- BetterStressTeddy
+			- SparkUpgrades
+	- Adventuring
+		- Upgrades
+			- SkillUpgrades
+			- TalentUpgrades
+	- Mining
+	- Business
+	- Leading
+
+Timers(Each has 4 subvalues: Active, Automated, CurTime, MaxTime):
+	- Education
+		- Action_DoHomework
+		- Action_GoToSchool
+	- Adventuring
+		- AttackTimer
+		- SpellTimer
+	- Mining
+	- Business
+	- Leading
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
